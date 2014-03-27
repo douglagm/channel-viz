@@ -14,7 +14,7 @@
 
 	var defaultKey		= '1xfuotMlNi6RwUikzO1gLhByUQawMvIdz37YMDhMGwvvz8V2', // Unique master Xively API key to be used as a default
 		defaultFeeds	= [1889070801], // Comma separated array of Xively Feed ID numbers
-		applicationName	= 'AUJEN Monitoring Site', // Replaces Xively logo in the header
+		applicationName	= 'HOME Monitoring Site', // Replaces Xively logo in the header
 		dataDuration	= '', // Default duration of data to be displayed // ref: https://xively.com/dev/docs/api/data/read/historical_data/
 		dataInterval	= 0, // Default interval for data to be displayed (in seconds)
 		dataColor		= '', // CSS HEX value of color to represent data (omit leading #)
